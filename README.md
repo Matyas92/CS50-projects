@@ -10,12 +10,12 @@ HarvardX CS50 and CS50 projects
 *This course picks up where CS50x leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like **Django**, React, and **Bootstrap**. Topics include **database design, scalability**, security, and user experience. Through hands-on projects, students learn to **write and use APIs, create interactive UIs**, and leverage cloud services like **GitHub and Heroku**.
 
 
-| Project           | Title             || Video link    | Github link   |
-| -------------     | -------------     || ------------- | ------------- |
-| CS50W - Project 0 |  Search       || [Video](https://youtu.be/uEuZ8f1kiqY) | [Github](https://submit.cs50.io/courses/30/web50/projects/2020/x/search)   |
+| Project           | Title        || Video link    | Github link   |
+| -------------     | -------------|| ------------- | ------------- |
+| CS50W - Project 0 |  Search      || [Video](https://youtu.be/uEuZ8f1kiqY) | [Github](https://submit.cs50.io/courses/30/web50/projects/2020/x/search)   |
 | CS50W - Project 1 | Wiki         || [Video](https://youtu.be/SNFVD-Vfq7I)  | [Github](https://submit.cs50.io/courses/30/web50/projects/2020/x/wiki)  |
-| CS50W - Project 2 | Commerce      || [Video](https://youtu.be/kJygw9ngGIA)  | https://submit.cs50.io/courses/30/web50/projects/2020/x/commerce  |
+| CS50W - Project 2 | Commerce     || [Video](https://youtu.be/kJygw9ngGIA)  | https://submit.cs50.io/courses/30/web50/projects/2020/x/commerce  |
 | CS50W - Project 3 | Mail         || [Video](https://youtu.be/uSaJBzU5XYc)  | https://submit.cs50.io/courses/30/web50/projects/2020/x/mail  |
 | CS50W - Project 4 | Network      || [Video](https://youtu.be/HHzfyrFP5GE)  | https://submit.cs50.io/courses/30/web50/projects/2020/x/network  |
-| CS50W - Final Project | Capstone  || [Video](https://youtu.be/iAnBZCSZy5gY)   | https://submit.cs50.io/courses/30/web50/projects/2020/x/capstone |
-| CS50 Final Project| Minigames     || [Video](https://youtu.be/J0rMLxDNcXQ) | [Github](https://youtu.be/J0rMLxDNcXQ)   |
+| CS50W - Final Project | Capstone || [Video](https://youtu.be/iAnBZCSZy5gY)   | https://submit.cs50.io/courses/30/web50/projects/2020/x/capstone |
+| CS50 Final Project| Minigames    || [Video](https://youtu.be/J0rMLxDNcXQ) | [Github](https://youtu.be/J0rMLxDNcXQ)   |
