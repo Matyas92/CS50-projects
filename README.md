@@ -19,3 +19,12 @@ HarvardX CS50 and CS50 projects
 | CS50W - Project 4 | Network      || [Video](https://youtu.be/HHzfyrFP5GE)  | https://submit.cs50.io/courses/30/web50/projects/2020/x/network  |
 | CS50W - Final Project | Capstone || [Video](https://youtu.be/iAnBZCSZy5gY)   | https://submit.cs50.io/courses/30/web50/projects/2020/x/capstone |
 | CS50 Final Project| Minigames    || [Video](https://youtu.be/J0rMLxDNcXQ) | [Github](https://youtu.be/J0rMLxDNcXQ)   |
+
+
+<dl>
+  <dt>First Term</dt>
+  <dd>This is the definition of the first term.</dd>
+  <dt>Second Term</dt>
+  <dd>This is one definition of the second term. </dd>
+  <dd>This is another definition of the second term.</dd>
+</dl>
