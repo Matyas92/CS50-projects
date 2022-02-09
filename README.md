@@ -10,7 +10,7 @@ HarvardX CS50 and CS50 projects
 *This course picks up where CS50x leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like **Django**, React, and **Bootstrap**. Topics include **database design, scalability**, security, and user experience. Through hands-on projects, students learn to **write and use APIs, create interactive UIs**, and leverage cloud services like **GitHub and Heroku**.
 
 
-| Project  | Title || Video link  | Github link |
+| Project       | Title         || Video link    | Github link   |
 | ------------- | ------------- || ------------- | ------------- |
 | CS50W - Project 0 |  Search   || [Video](https://youtu.be/uEuZ8f1kiqY) | [Github](https://submit.cs50.io/courses/30/web50/projects/2020/x/search)   |
 | CS50W - Project 1  | Wiki     || [Video](https://youtu.be/SNFVD-Vfq7I)  | [Github](https://submit.cs50.io/courses/30/web50/projects/2020/x/wiki)  |
