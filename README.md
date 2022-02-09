@@ -18,7 +18,7 @@ HarvardX CS50 and CS50 projects
 | CS50W - Project 3 | Mail         | [Video](https://youtu.be/uSaJBzU5XYc)  | [Github](https://submit.cs50.io/courses/30/web50/projects/2020/x/mail)  |
 | CS50W - Project 4 | Network      | [Video](https://youtu.be/HHzfyrFP5GE)  | [Github](https://submit.cs50.io/courses/30/web50/projects/2020/x/network)  |
 | CS50W - Final Project | Capstone | [Video](https://youtu.be/iAnBZCSZy5gY)   | [Github](https://submit.cs50.io/courses/30/web50/projects/2020/x/capstone) |
-| CS50 Final Project| Minigames    | [Video](https://youtu.be/J0rMLxDNcXQ) | [Github](https://youtu.be/J0rMLxDNcXQ)   |
+| CS50 Final - Project| Minigames    | [Video](https://youtu.be/J0rMLxDNcXQ) | [Github](https://youtu.be/J0rMLxDNcXQ)   |
 
 
 
